@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa8bfe4d-2305-4152-b699-c164a7615955" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fbf-user/src/main/java/com/github/fb01001/fbfuser/FbfUserApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fbf-user/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fbf-user/src/test/java/com/github/fb01001/fbfuser/FbfUserApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../外部组件/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../外部组件/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="aa8bfe4d-2305-4152-b699-c164a7615955" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -166,7 +160,9 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -218,16 +214,15 @@
       <option name="presentableId" value="Default" />
       <updated>1576134854159</updated>
       <workItem from="1576134856886" duration="4252000" />
-      <workItem from="1576199053707" duration="1188000" />
+      <workItem from="1576199053707" duration="1472000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5440000" />
+    <option name="totallyTimeSpent" value="5724000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="0" width="1924" height="1055" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2524013" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
