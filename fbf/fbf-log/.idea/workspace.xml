@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="699a5409-e47b-4084-8f1e-333b432855c1" name="Default Changelist" comment="" />
+    <list default="true" id="699a5409-e47b-4084-8f1e-333b432855c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fbf-parent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fbf-parent/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fbf-report/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fbf-report/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fbf-ticket/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fbf-ticket/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fbf-utils/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fbf-utils/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fbf-utils/src/main/java/Utils/RestTemplateUtils/HttpsClientRequestFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fbf-utils/src/main/java/Utils/RestTemplateUtils/HttpsClientRequestFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fbf-utils/src/main/java/Utils/RestTemplateUtils/MyCustomSSLSocketFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fbf-utils/src/main/java/Utils/RestTemplateUtils/MyCustomSSLSocketFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fbf-utils/src/main/java/Utils/RestTemplateUtils/RestTemplateUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fbf-utils/src/main/java/Utils/RestTemplateUtils/RestTemplateUtils.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/fbf-log-client/target/" />
@@ -23,6 +32,7 @@
     <session id="-1006988007">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -33,7 +43,11 @@
     <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -79,10 +93,10 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="292" />
-    <option name="y" value="16" />
-    <option name="width" value="1276" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="401" />
+    <option name="y" value="97" />
+    <option name="width" value="1270" />
     <option name="height" value="930" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -136,7 +150,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576204309609" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576240344044" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -183,15 +197,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576203904044</updated>
-      <workItem from="1576203906948" duration="294000" />
+      <workItem from="1576203906948" duration="1491000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="294000" />
+    <option name="totallyTimeSpent" value="1491000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="0" width="1924" height="1055" extended-state="6" />
+    <frame x="-2" y="0" width="1924" height="1055" extended-state="7" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -235,7 +249,11 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">

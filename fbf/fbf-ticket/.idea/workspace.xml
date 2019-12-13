@@ -3,7 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="a761cb65-48d4-4738-81a1-ca800452792b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../fbf-log/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fbf-log/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fbf-parent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fbf-parent/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../fbf-report/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fbf-report/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fbf-utils/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fbf-utils/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fbf-utils/src/main/java/Utils/RestTemplateUtils/HttpsClientRequestFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fbf-utils/src/main/java/Utils/RestTemplateUtils/HttpsClientRequestFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fbf-utils/src/main/java/Utils/RestTemplateUtils/MyCustomSSLSocketFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fbf-utils/src/main/java/Utils/RestTemplateUtils/MyCustomSSLSocketFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fbf-utils/src/main/java/Utils/RestTemplateUtils/RestTemplateUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fbf-utils/src/main/java/Utils/RestTemplateUtils/RestTemplateUtils.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,6 +32,7 @@
     <session id="1053414909">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -82,10 +89,10 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="292" />
-    <option name="y" value="16" />
-    <option name="width" value="1276" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="401" />
+    <option name="y" value="97" />
+    <option name="width" value="1270" />
     <option name="height" value="930" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -141,7 +148,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576204309576" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576240344027" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -188,15 +195,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576202502709</updated>
-      <workItem from="1576202505888" duration="1113000" />
+      <workItem from="1576202505888" duration="1309000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1113000" />
+    <option name="totallyTimeSpent" value="1309000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="0" width="1924" height="1055" extended-state="6" />
+    <frame x="-2" y="0" width="1924" height="1055" extended-state="7" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
