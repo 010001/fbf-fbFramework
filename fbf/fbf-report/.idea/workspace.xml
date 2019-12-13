@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3602fd58-d53b-4aa7-b4b0-cd1b37c8ce0f" name="Default Changelist" comment="" />
+    <list default="true" id="3602fd58-d53b-4aa7-b4b0-cd1b37c8ce0f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../fbf-log/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fbf-log/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fbf-ticket/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fbf-ticket/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/fbf-report-client/target/" />
@@ -175,7 +178,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576204011939" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576204309543" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
