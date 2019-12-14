@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa8bfe4d-2305-4152-b699-c164a7615955" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../fbf-log/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fbf-log/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fbf-report/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fbf-report/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fbf-ticket/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fbf-ticket/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fbf-utils/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fbf-utils/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fbf-utils/src/main/java/Utils/RestTemplateUtils/HttpsClientRequestFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fbf-utils/src/main/java/Utils/RestTemplateUtils/HttpsClientRequestFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fbf-utils/src/main/java/Utils/RestTemplateUtils/MyCustomSSLSocketFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fbf-utils/src/main/java/Utils/RestTemplateUtils/MyCustomSSLSocketFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fbf-utils/src/main/java/Utils/RestTemplateUtils/RestTemplateUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fbf-utils/src/main/java/Utils/RestTemplateUtils/RestTemplateUtils.java" afterDir="false" />
-    </list>
+    <list default="true" id="aa8bfe4d-2305-4152-b699-c164a7615955" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +21,7 @@
     <session id="1894086632">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
@@ -140,7 +131,7 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="292" />
     <option name="y" value="16" />
     <option name="width" value="1276" />
@@ -229,15 +220,15 @@
       <updated>1576134854159</updated>
       <workItem from="1576134856886" duration="4252000" />
       <workItem from="1576199053707" duration="1475000" />
-      <workItem from="1576245579439" duration="932000" />
+      <workItem from="1576245579439" duration="1752000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6659000" />
+    <option name="totallyTimeSpent" value="7479000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="0" width="1924" height="1055" extended-state="7" />
+    <frame x="-2" y="0" width="1924" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25506938" />
