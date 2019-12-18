@@ -1,0 +1,8 @@
+2019-12-16 16:29:32,609 INFO (StartupInfoLogger.java:55)- Starting FbfSystemApplication on fangbin-pc with PID 14306 (/data/git/mygit/fbf-fbFramework/fbf/fbf-system/target/classes started by fangbin in /data/git/mygit/fbf-fbFramework/fbf/fbf-system)
+2019-12-16 16:29:32,612 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2019-12-16 16:29:32,612 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-12-16 16:29:33,647 INFO (StartupInfoLogger.java:61)- Started FbfSystemApplication in 1.389 seconds (JVM running for 1.796)
+2019-12-16 16:29:48,185 INFO (SystemController.java:26)- hello
+2019-12-16 16:29:51,337 INFO (SystemController.java:26)- hello
+2019-12-16 16:29:52,262 INFO (SystemController.java:26)- hello
+2019-12-16 16:29:52,941 INFO (SystemController.java:26)- hello
